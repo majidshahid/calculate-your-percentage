@@ -1,0 +1,16 @@
+body{
+    background-image: url(img/ovidiu-cozma-sr90ZsVcJjo-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: blanchedalmond;
+    font-weight: bold;
+    letter-spacing: 4px;
+    word-spacing: 7px;
+    text-decoration:underline blanchedalmond double;
+    text-align: center;
+    line-height: 100px;
+
+}
